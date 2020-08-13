@@ -19,4 +19,4 @@ If login for any reason fails, try logging in using the terminal and then start 
 Filip Hadzi-Ristic<br>
 filip.h-r@protonmail.com<br>
 # Note
-This version of NordVPN Linux GUI is depricated because NordVPN keeps making changes to the Linux commands in there client.
+This version of NordVPN Linux GUI is depricated because NordVPN keeps making changes to the Linux commands in their client.
